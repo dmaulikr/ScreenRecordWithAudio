@@ -14,12 +14,12 @@
 		098216061F3A174E00FD3627 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 098216051F3A174E00FD3627 /* main.m */; };
 		098216101F3A174E00FD3627 /* DEMO__Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0982160F1F3A174E00FD3627 /* DEMO__Tests.m */; };
 		0982161B1F3A174F00FD3627 /* DEMO__UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0982161A1F3A174F00FD3627 /* DEMO__UITests.m */; };
-		098216341F3A175A00FD3627 /* AudioRecorder.m in Sources */ = {isa = PBXBuildFile; fileRef = 0982162A1F3A175A00FD3627 /* AudioRecorder.m */; };
-		098216351F3A175A00FD3627 /* RecordCompression.m in Sources */ = {isa = PBXBuildFile; fileRef = 0982162C1F3A175A00FD3627 /* RecordCompression.m */; };
-		098216361F3A175A00FD3627 /* RecordPath.m in Sources */ = {isa = PBXBuildFile; fileRef = 0982162E1F3A175A00FD3627 /* RecordPath.m */; };
-		098216371F3A175A00FD3627 /* ScreenRecorder.m in Sources */ = {isa = PBXBuildFile; fileRef = 098216301F3A175A00FD3627 /* ScreenRecorder.m */; };
-		098216381F3A175A00FD3627 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 098216321F3A175A00FD3627 /* ViewController.m */; };
-		098216391F3A175A00FD3627 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 098216331F3A175A00FD3627 /* ViewController.xib */; };
+		098216681F3A1A7600FD3627 /* AudioRecorder.m in Sources */ = {isa = PBXBuildFile; fileRef = 0982165E1F3A1A6900FD3627 /* AudioRecorder.m */; };
+		098216691F3A1A7600FD3627 /* RecordCompression.m in Sources */ = {isa = PBXBuildFile; fileRef = 098216601F3A1A6900FD3627 /* RecordCompression.m */; };
+		0982166A1F3A1A7600FD3627 /* RecordPath.m in Sources */ = {isa = PBXBuildFile; fileRef = 098216621F3A1A6900FD3627 /* RecordPath.m */; };
+		0982166B1F3A1A7600FD3627 /* ScreenRecorder.m in Sources */ = {isa = PBXBuildFile; fileRef = 098216641F3A1A6900FD3627 /* ScreenRecorder.m */; };
+		0982166C1F3A1A7600FD3627 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 098216661F3A1A6900FD3627 /* ViewController.m */; };
+		0982166E1F3A1AB000FD3627 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0982166D1F3A1AB000FD3627 /* ViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,17 +54,17 @@
 		098216161F3A174F00FD3627 /* DEMO录制UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "DEMO录制UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0982161A1F3A174F00FD3627 /* DEMO__UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DEMO__UITests.m; sourceTree = "<group>"; };
 		0982161C1F3A174F00FD3627 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		098216291F3A175A00FD3627 /* AudioRecorder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AudioRecorder.h; sourceTree = "<group>"; };
-		0982162A1F3A175A00FD3627 /* AudioRecorder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AudioRecorder.m; sourceTree = "<group>"; };
-		0982162B1F3A175A00FD3627 /* RecordCompression.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RecordCompression.h; sourceTree = "<group>"; };
-		0982162C1F3A175A00FD3627 /* RecordCompression.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RecordCompression.m; sourceTree = "<group>"; };
-		0982162D1F3A175A00FD3627 /* RecordPath.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RecordPath.h; sourceTree = "<group>"; };
-		0982162E1F3A175A00FD3627 /* RecordPath.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RecordPath.m; sourceTree = "<group>"; };
-		0982162F1F3A175A00FD3627 /* ScreenRecorder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScreenRecorder.h; sourceTree = "<group>"; };
-		098216301F3A175A00FD3627 /* ScreenRecorder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScreenRecorder.m; sourceTree = "<group>"; };
-		098216311F3A175A00FD3627 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		098216321F3A175A00FD3627 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		098216331F3A175A00FD3627 /* ViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ViewController.xib; sourceTree = "<group>"; };
+		0982165D1F3A1A6900FD3627 /* AudioRecorder.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AudioRecorder.h; sourceTree = "<group>"; };
+		0982165E1F3A1A6900FD3627 /* AudioRecorder.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AudioRecorder.m; sourceTree = "<group>"; };
+		0982165F1F3A1A6900FD3627 /* RecordCompression.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RecordCompression.h; sourceTree = "<group>"; };
+		098216601F3A1A6900FD3627 /* RecordCompression.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RecordCompression.m; sourceTree = "<group>"; };
+		098216611F3A1A6900FD3627 /* RecordPath.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RecordPath.h; sourceTree = "<group>"; };
+		098216621F3A1A6900FD3627 /* RecordPath.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RecordPath.m; sourceTree = "<group>"; };
+		098216631F3A1A6900FD3627 /* ScreenRecorder.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ScreenRecorder.h; sourceTree = "<group>"; };
+		098216641F3A1A6900FD3627 /* ScreenRecorder.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ScreenRecorder.m; sourceTree = "<group>"; };
+		098216651F3A1A6900FD3627 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		098216661F3A1A6900FD3627 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		0982166D1F3A1AB000FD3627 /* ViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,7 +115,7 @@
 		098215F51F3A174E00FD3627 /* DEMO录制 */ = {
 			isa = PBXGroup;
 			children = (
-				098216281F3A175A00FD3627 /* Record */,
+				0982165C1F3A1A6900FD3627 /* Record */,
 				098215F61F3A174E00FD3627 /* AppDelegate.h */,
 				098215F71F3A174E00FD3627 /* AppDelegate.m */,
 				098215FC1F3A174E00FD3627 /* Main.storyboard */,
@@ -145,24 +145,23 @@
 			path = "DEMO录制UITests";
 			sourceTree = "<group>";
 		};
-		098216281F3A175A00FD3627 /* Record */ = {
+		0982165C1F3A1A6900FD3627 /* Record */ = {
 			isa = PBXGroup;
 			children = (
-				098216291F3A175A00FD3627 /* AudioRecorder.h */,
-				0982162A1F3A175A00FD3627 /* AudioRecorder.m */,
-				0982162B1F3A175A00FD3627 /* RecordCompression.h */,
-				0982162C1F3A175A00FD3627 /* RecordCompression.m */,
-				0982162D1F3A175A00FD3627 /* RecordPath.h */,
-				0982162E1F3A175A00FD3627 /* RecordPath.m */,
-				0982162F1F3A175A00FD3627 /* ScreenRecorder.h */,
-				098216301F3A175A00FD3627 /* ScreenRecorder.m */,
-				098216311F3A175A00FD3627 /* ViewController.h */,
-				098216321F3A175A00FD3627 /* ViewController.m */,
-				098216331F3A175A00FD3627 /* ViewController.xib */,
+				0982165D1F3A1A6900FD3627 /* AudioRecorder.h */,
+				0982165E1F3A1A6900FD3627 /* AudioRecorder.m */,
+				0982165F1F3A1A6900FD3627 /* RecordCompression.h */,
+				098216601F3A1A6900FD3627 /* RecordCompression.m */,
+				098216611F3A1A6900FD3627 /* RecordPath.h */,
+				098216621F3A1A6900FD3627 /* RecordPath.m */,
+				098216631F3A1A6900FD3627 /* ScreenRecorder.h */,
+				098216641F3A1A6900FD3627 /* ScreenRecorder.m */,
+				098216651F3A1A6900FD3627 /* ViewController.h */,
+				098216661F3A1A6900FD3627 /* ViewController.m */,
+				0982166D1F3A1AB000FD3627 /* ViewController.xib */,
 			);
-			name = Record;
-			path = ../../Record;
-			sourceTree = "<group>";
+			path = Record;
+			sourceTree = SOURCE_ROOT;
 		};
 /* End PBXGroup section */
 
@@ -270,7 +269,7 @@
 			files = (
 				098216031F3A174E00FD3627 /* LaunchScreen.storyboard in Resources */,
 				098216001F3A174E00FD3627 /* Assets.xcassets in Resources */,
-				098216391F3A175A00FD3627 /* ViewController.xib in Resources */,
+				0982166E1F3A1AB000FD3627 /* ViewController.xib in Resources */,
 				098215FE1F3A174E00FD3627 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -296,13 +295,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				098216381F3A175A00FD3627 /* ViewController.m in Sources */,
+				098216681F3A1A7600FD3627 /* AudioRecorder.m in Sources */,
+				098216691F3A1A7600FD3627 /* RecordCompression.m in Sources */,
+				0982166A1F3A1A7600FD3627 /* RecordPath.m in Sources */,
+				0982166B1F3A1A7600FD3627 /* ScreenRecorder.m in Sources */,
+				0982166C1F3A1A7600FD3627 /* ViewController.m in Sources */,
 				098216061F3A174E00FD3627 /* main.m in Sources */,
-				098216371F3A175A00FD3627 /* ScreenRecorder.m in Sources */,
 				098215F81F3A174E00FD3627 /* AppDelegate.m in Sources */,
-				098216341F3A175A00FD3627 /* AudioRecorder.m in Sources */,
-				098216361F3A175A00FD3627 /* RecordPath.m in Sources */,
-				098216351F3A175A00FD3627 /* RecordCompression.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -564,6 +563,7 @@
 				098216211F3A174F00FD3627 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		098216221F3A174F00FD3627 /* Build configuration list for PBXNativeTarget "DEMO录制Tests" */ = {
 			isa = XCConfigurationList;
@@ -572,6 +572,7 @@
 				098216241F3A174F00FD3627 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		098216251F3A174F00FD3627 /* Build configuration list for PBXNativeTarget "DEMO录制UITests" */ = {
 			isa = XCConfigurationList;
@@ -580,6 +581,7 @@
 				098216271F3A174F00FD3627 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
